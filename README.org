@@ -1,0 +1,10 @@
+* slot-map
+
+Mirror of https://git.mfiano.net/mfiano/slot-map
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/slot-map.git   |
+| commit  | {"messa  |
+| systems | slot-map |
+|---------+-------------------------------------------|
+
