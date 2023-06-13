@@ -4,7 +4,7 @@ Mirror of https://git.mfiano.net/mfiano/slot-map
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/mfiano/slot-map.git   |
-| commit  | {"messa  |
+| commit  | ef4c9c7  |
 | systems | slot-map |
 |---------+-------------------------------------------|
 
